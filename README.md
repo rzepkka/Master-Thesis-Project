@@ -15,7 +15,7 @@
 Various techniques have been examined for diagnosing the stages and types of dementia, including support vector machine, deep neural networks or event-based modelling. These methods have shown to outperform humans in detecting certain patterns and anomalies. However, performance does not go hand in hand with transparency and explainability. Doctors often struggle with interpreting the decisions of AI-driven systems, due to a lack of understanding on what basis the decisions are made. To address this issue, this project was focused on developing an interactive user interface (UI) for disease course sequencing. Created visualisations were integrated with an event-based model called Snowphlake, which is currently still under development by researchers at University Medical Center (UMC) in Amsterdam. Functionality and exemplary usage of the visualizations were later presented in a form of a dashboard. The results of the project were evaluated by conducting qualitative individual interviews with medical professionals available at UMC. The validation included measuring the satisfaction with the appearance and usability of the interface.
 
 <p align="center">
-<img src="https://github.com/rzepkka/Master-Thesis-Project/blob/main/title_page.png" width="600" height="300">
+<img src="https://github.com/rzepkka/Master-Thesis-Project/blob/main/title_page.png" width="800" height="300">
 
 - [UI](https://github.com/rzepkka/Master-Thesis-Project/UI) - this folder contains all python and R files used to create the User Interface for AD diagnosis. It  includes a *data* folder with the data that was used for visualizations. Not all files can be seen there, for the security and privacy of patients' medical data.
 
