@@ -1,0 +1,69 @@
+region,hemi,p
+bankssts,left,0.4723097657357239
+transverse temporal,left,0.4723097657357239
+superior temporal,left,0.4723097657357239
+temporal pole,left,0.4723097657357239
+entorhinal,left,0.4723097657357239
+middle temporal,left,0.4723097657357239
+inferior temporal,left,0.4723097657357239
+fusiform,left,0.4723097657357239
+bankssts,right,0.4723097657357239
+transverse temporal,right,0.4723097657357239
+superior temporal,right,0.4723097657357239
+temporal pole,right,0.4723097657357239
+entorhinal,right,0.4723097657357239
+middle temporal,right,0.4723097657357239
+inferior temporal,right,0.4723097657357239
+fusiform,right,0.4723097657357239
+superior frontal,left,0.6675627199269091
+frontal pole,left,0.6675627199269091
+superior frontal,right,0.6675627199269091
+frontal pole,right,0.6675627199269091
+caudal middle frontal,left,0.6275599766993786
+rostral middle frontal,left,0.6275599766993786
+caudal middle frontal,right,0.6275599766993786
+rostral middle frontal,right,0.6275599766993786
+pars opercularis,left,0.7264661330656318
+pars orbitalis,left,0.7264661330656318
+pars triangularis,left,0.7264661330656318
+pars opercularis,right,0.7264661330656318
+pars orbitalis,right,0.7264661330656318
+pars triangularis,right,0.7264661330656318
+medial orbitofrontal,left,0.6778168851941959
+medial orbitofrontal,right,0.6778168851941959
+lateral orbitofrontal,left,0.6104999426237437
+lateral orbitofrontal,right,0.6104999426237437
+precentral,left,0.9510482396730683
+paracentral,left,0.9510482396730683
+precentral,right,0.9510482396730683
+paracentral,right,0.9510482396730683
+postcentral,left,0.9841056784880737
+postcentral,right,0.9841056784880737
+superior parietal,left,0.7264661330656318
+precuneus,left,0.7264661330656318
+cuneus,left,0.7264661330656318
+pericalcarine,left,0.7264661330656318
+superior parietal,right,0.7264661330656318
+precuneus,right,0.7264661330656318
+cuneus,right,0.7264661330656318
+pericalcarine,right,0.7264661330656318
+inferior parietal,left,0.5324861304158374
+supramarginal,left,0.5324861304158374
+inferior parietal,right,0.5324861304158374
+supramarginal,right,0.5324861304158374
+lateral occipital,left,0.808026901758555
+lateral occipital,right,0.808026901758555
+lingual,left,0.9838599381438403
+lingual,right,0.9838599381438403
+insula,left,0.6984746065108606
+insula,right,0.6984746065108606
+caudal anterior cingulate,left,0.986892874474636
+rostral anterior cingulate,left,0.986892874474636
+caudal anterior cingulate,right,0.986892874474636
+rostral anterior cingulate,right,0.986892874474636
+posterior cingulate,left,0.8366120967399858
+isthmus cingulate,left,0.8366120967399858
+posterior cingulate,right,0.8366120967399858
+isthmus cingulate,right,0.8366120967399858
+parahippocampal,left,0.7119712393253704
+parahippocampal,right,0.7119712393253704
