@@ -16,7 +16,7 @@
 >> pip install -r requirements.txt
 
 4. Install Snowphlake (it is a private github repository, access permission is needed)
-5. Within R, install Biobase, NMF, ggseg3d and htmlwidgets packages 
+5. Within R, install NMF, ggseg3d, htmlwidgets and Biobase 
 
 >> install.packages('NMF')
 
