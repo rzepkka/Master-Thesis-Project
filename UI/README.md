@@ -15,16 +15,20 @@
 
 >> pip install -r requirements.txt
 
-4. Install Snowphlake
+4. Install Snowphlake (it is a private github repository, access permission is needed)
 5. Within R, install Biobase, NMF, ggseg3d and htmlwidgets packages 
-
->> install.packages('Biobase')
 
 >> install.packages('NMF')
 
 >> install.packages('ggseg3d')
 
 >> install.packages('htmlwidgets')
+
+>> if (!require("BiocManager", quietly = TRUE))
+
+>> install.packages("BiocManager")
+
+>> BiocManager::install("Biobase")
 
 6. Pass your data by editing *input_data.py* file. Required inputs:
 - pickle file with Snowphlake outputs
