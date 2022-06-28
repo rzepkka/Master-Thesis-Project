@@ -17,11 +17,11 @@ Various techniques have been examined to diagnose stages and types of dementia, 
 <p align="center">
 <img src="https://github.com/rzepkka/Master-Thesis-Project/blob/main/title_page.png" width="900" height="400">
 
-- [UI](https://github.com/rzepkka/Master-Thesis-Project/tree/main/UI) - this folder contains all python and R files used to create the User Interface for AD diagnosis. It  includes a *data* folder with the data that was used for visualizations. Not all files can be seen there, for the security and privacy of patients' medical data.
+- [UI](https://github.com/rzepkka/Master-Thesis-Project/tree/main/UI) - this folder contains all Python and R files used to create the User Interface (UI) for AD diagnosis. It  includes a *data* folder with the data that was used for group-based visualizations. The data necessary to generate patient-specific information is not included in the folder, for the security and privacy of UMC's patients.
 
-- [notebooks](https://github.com/rzepkka/Master-Thesis-Project/tree/main/notebooks) - this folder contains jupyter notebooks files with examples of how the created visualization functions can be applied. 
+- [notebooks](https://github.com/rzepkka/Master-Thesis-Project/tree/main/notebooks) - this folder contains Jupyter Notebooks files with examples of how the created visualization functions can be applied. 
   
-- [Evaluation](https://github.com/rzepkka/Master-Thesis-Project/tree/main/Evaluation) - this folder contains the interview protocol, coding schema and individual responses to the usability questionnaire
+- [Evaluation](https://github.com/rzepkka/Master-Thesis-Project/tree/main/Evaluation) - this folder contains the interview protocol, coding schema and individual responses to the usability questionnaire.
 
 - [Thesis](https://github.com/rzepkka/Master-Thesis-Project/Master-Thesis.pdf) - thesis report
 
