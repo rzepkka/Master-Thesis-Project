@@ -35,7 +35,7 @@
 - csv with patients' data
 - JSON mapping files for brain regions
 - disease name
-- a list of subtype names
+- a list of subtype labels
 
 7. Run the setup file from command line:
 
