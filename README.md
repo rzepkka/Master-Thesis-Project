@@ -6,7 +6,7 @@
 
 #### This project was carried out as part of a Master’s Thesis project at the University of Amsterdam, in collaboration with UMC’s Alzheimer Center.
 
-*Author: Julia Rzepka, University of Amsterdam, submitted in partial fulfillment for the degree of master of science*
+*Author: Julia Rzepka, University of Amsterdam, submitted in partial fulfillment for the degree of Master of Science*
 
 *Internal Supervisor: Sara Mahdavi Hezavehi, UVA*
 
