@@ -20,6 +20,8 @@ Various techniques have been examined for diagnosing the stages and types of dem
 - [UI](https://github.com/rzepkka/Master-Thesis-Project/tree/main/UI) - this folder contains all python and R files used to create the User Interface for AD diagnosis. It  includes a *data* folder with the data that was used for visualizations. Not all files can be seen there, for the security and privacy of patients' medical data.
 
 - [notebooks](https://github.com/rzepkka/Master-Thesis-Project/tree/main/notebooks) - this folder contains jupyter notebooks files with examples of how the created visualization functions can be applied. 
+  
+- [Evaluation](https://github.com/rzepkka/Master-Thesis-Project/tree/main/Evaluation) - this folder contains the interview protocol, coding schema and individual responses to the usability questionnaire
 
 - [Thesis](https://github.com/rzepkka/Master-Thesis-Project/Master-Thesis.pdf) - thesis report
 
