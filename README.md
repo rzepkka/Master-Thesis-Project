@@ -23,7 +23,7 @@ Various techniques have been examined to diagnose stages and types of dementia, 
   
 - [Evaluation](https://github.com/rzepkka/Master-Thesis-Project/tree/main/Evaluation) - this folder contains the interview protocol, coding schema and individual responses to the usability questionnaire.
 
-- [Thesis](https://github.com/rzepkka/Master-Thesis-Project/Master-Thesis.pdf) - thesis report
+- [Thesis Report](https://github.com/rzepkka/Master-Thesis-Project/Master_Thesis.pdf) - thesis report
 
 
 
